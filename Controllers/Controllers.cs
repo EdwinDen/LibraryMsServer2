@@ -18,7 +18,6 @@ public class MemberController : ControllerBase
         return await _context.Members.ToListAsync();
     }
     
-    // TODO : Implement get by Idenification number 
     [HttpGet("{identificationNumber}")]
     public async Task<Member> GetById(string identificationNumber)
     {
