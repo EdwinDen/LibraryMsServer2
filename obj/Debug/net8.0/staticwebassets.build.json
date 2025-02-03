@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "iL7FYJnmsn+3R7qON3RL4iN/4SYnhaB8dyudWemV5Cw=",
+  "Hash": "mMPzogUH5yK3MMLynJDDWQNZFms6XiMNpfbKarDYG74=",
   "Source": "LibraryMsServer2",
   "BasePath": "_content/LibraryMsServer2",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }
